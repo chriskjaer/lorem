@@ -6,6 +6,7 @@ Lorem
 - Lorem.word
 - Lorem.sentence
 - Lorem.paragraph
+- Lorem.image
 
 
 ## Note
