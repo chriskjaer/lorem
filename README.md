@@ -1,4 +1,4 @@
-Lorem
+Lorem [![Build Status](https://travis-ci.org/chriskjaer/lorem.svg)](https://travis-ci.org/chriskjaer/lorem)
 =====
 > Generate lorem ipsum filler text and images.
 
