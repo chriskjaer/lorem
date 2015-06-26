@@ -1,6 +1,6 @@
 Lorem
 =====
-Easily generate lorem ipsum filler text.
+> Generate lorem ipsum filler text and images.
 
 ## Implemented:
 - Lorem.word
@@ -13,7 +13,7 @@ This is my first foray into elixir. Please open an issue or notify me if you see
 code that could be written in a more idiomatic way.
 
 ## TODO:
-- [ ] Images
+- [x] Images
 - [ ] Address
 - [ ] Names
 - [ ] Document each method

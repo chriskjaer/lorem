@@ -40,4 +40,11 @@ defmodule LoremTest do
       |> String.split("   ")
       |> Kernel.length === 2
   end
+
+  test "returns an image url" do
+    assert Kernel.is_bitstring Lorem.image
+
+    url_basic = Lorem.image
+    assert url_basic = "http://lorempixel.com/400/400"
+  end
 end

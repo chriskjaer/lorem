@@ -69,6 +69,11 @@ defmodule Lorem do
     1..n |> map(paragraph) |> Enum.join("   ")
   end
 
+  @doc """
+  Returns an image url.
+  """
+  def image, do: "http://lorempixel.com/400/400"
+
 
   defp map(data, func), do: Enum.map(data, fn _ -> func end)
   defp append(string, char), do: string <> char
