@@ -12,9 +12,9 @@ Easily generate lorem ipsum filler text.
 This is my first foray into elixir. Please open an issue or notify me if you see
 code that could be written in a more idiomatic way.
 
-** TODO:**
- - [] Images
- - [] Address
- - [] Names
- - [] Document each method
- - ...More?
+## TODO:
+- [ ] Images
+- [ ] Address
+- [ ] Names
+- [ ] Document each method
+- ...More?
